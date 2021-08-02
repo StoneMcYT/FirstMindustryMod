@@ -3,5 +3,6 @@
 	"displayName": "[white]Stones [#a9d8ff]Mod",
 	"author":"StoneMc",
 	"description": "My First mod",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"minGameVersion": "129.1"
 }
