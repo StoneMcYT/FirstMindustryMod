@@ -1,0 +1,10 @@
+{
+	"localizedName": "improved solar ",
+	"description": "Just some better sollar pannel",
+	"size": 1,
+    "powerProduction": 2.0,
+
+	"requirements": [
+		{ "item": "silicon", "amount": 100 }
+	]
+}
