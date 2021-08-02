@@ -2,7 +2,7 @@
 	"localizedName": "improved solar ",
 	"description": "Just some better sollar pannel",
 	"size": 1,
-    "powerProduction": 2.0,
+    "powerProduction": 0.5,
 
 	"requirements": [
 		{ "item": "silicon", "amount": 100 }
