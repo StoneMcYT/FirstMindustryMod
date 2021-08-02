@@ -3,6 +3,7 @@
 	"description": "Just some better sollar pannel",
 	"size": 1,
     "powerProduction": 0.5,
+	"hasPower": true,
 
 	"requirements": [
 		{ "item": "silicon", "amount": 100 }
