@@ -4,7 +4,7 @@
 	"size": 1,
     "powerProduction": 0.5,
 	"hasPower": true,
-	"type": "solarPanel",
+	"type": "SolarGenerator",
 
 	"requirements": [
 		{ "item": "silicon", "amount": 100 }
