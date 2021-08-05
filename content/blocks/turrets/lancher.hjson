@@ -14,12 +14,9 @@ size: 2
 health: 280 
 targetAir: false
 requirements: [
-  copper/1500
-  lead/1200
-  metaglass/700
-  anden/500
-  thorium/450
-  surge-alloy/300
+    copper/60,
+    lead/70,
+    silicon/50
 ]
 shootType: {
     type: LaserBulletType
