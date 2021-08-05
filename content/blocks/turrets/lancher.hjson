@@ -11,7 +11,7 @@ powerUse: 6
 shootShake: 2 
 heatColor: Color.red
 size: 2   
-health: 280 * size * size
+health: 280 
 targetAir: false
 requirements: [
   copper/1500
