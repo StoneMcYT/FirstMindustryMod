@@ -19,17 +19,6 @@ health = 280 * size * size;
 targetAir = false;
 shootSound = Sounds.laser;
 
-shootType = new LaserBulletType(140){{
-    colors = new Color[]{Pal.lancerLaser.cpy().a(0.4f), Pal.lancerLaser, Color.white};
-    hitEffect = Fx.hitLancer;
-    hitSize = 4;
-    lifetime = 16 
-    drawSize = 400 
-    collidesAir = false;
-    length = 173 
-    ammoMultiplier = 1 
-}};
-}};
 requirements: [
   copper/1500
   lead/1200
