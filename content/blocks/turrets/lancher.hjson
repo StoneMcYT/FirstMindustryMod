@@ -1,6 +1,4 @@
-type: TypeOfThing
 name: lancer
-description: Description of thing.
 range: 165 
 chargeTime: 40 
 chargeMaxDelay: 30 
@@ -11,10 +9,10 @@ category: turret
 cooldown: 0.03 
 powerUse: 6 
 shootShake: 2 
-heatColor: Color.red;
-size: 2;   
-health: 280 * size * size;
-targetAir: false;
+heatColor: Color.red
+size: 2   
+health: 280 * size * size
+targetAir: false
 requirements: [
   copper/1500
   lead/1200
@@ -23,9 +21,7 @@ requirements: [
   thorium/450
   surge-alloy/300
 ]
-research: {
-  parent: duo
-  requirements: [
-    copper/100
-  ]
+shootType: {
+    type: LaserBulletType
+    hitSize: 4
 }
