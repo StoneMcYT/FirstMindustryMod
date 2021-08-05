@@ -1,4 +1,3 @@
-
 range = 165 
 chargeTime = 40 
 chargeMaxDelay = 30 
@@ -9,10 +8,6 @@ category = turret
 cooldown = 0.03 
 powerUse = 6 
 shootShake = 2 
-shootEffect = Fx.lancerLaserShoot;
-smokeEffect = Fx.none;
-chargeEffect = Fx.lancerLaserCharge;
-chargeBeginEffect = Fx.lancerLaserChargeBegin;
 heatColor = Color.red;
 size = 2;   
 health = 280 * size * size;
