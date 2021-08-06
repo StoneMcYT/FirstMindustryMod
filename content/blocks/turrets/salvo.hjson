@@ -1,5 +1,5 @@
 name: Salvo
-size: 2;
+size: 2
 range: 190
 reloadTime: 31
 restitution: 0.03
@@ -8,7 +8,7 @@ cooldown: 0.03
 recoilAmount: 3
 shootShake: 1
 burstSpacing: 3
-shots: 4;
+shots: 4
 ammoUseEffect: Fx.casing2
 health: 240
 shootSound: Sounds.shootBig
@@ -20,7 +20,7 @@ ammoTypes: {
         shootEffect: Fx.shootSmall
         smokeEffect: Fx.shootSmallSmoke
         ammoMultiplier: 2
-        damage: 2000000
+        damage: 200000
   }
 }
 requirements: [
