@@ -1,0 +1,30 @@
+name: Salvo
+size: 2;
+range: 190
+reloadTime: 31
+restitution: 0.03
+ammoEjectBack: 3
+cooldown: 0.03
+recoilAmount: 3
+shootShake: 1
+burstSpacing: 3
+shots: 4;
+ammoUseEffect: Fx.casing2
+health: 240
+shootSound: Sounds.shootBig
+ammoTypes: {
+    copper: {
+        width: 7
+        height: 9
+        lifetime: 60
+        shootEffect: Fx.shootSmall
+        smokeEffect: Fx.shootSmallSmoke
+        ammoMultiplier: 2
+        damage: 2000000
+  }
+}
+requirements: [
+    copper/100,
+    graphite/80,
+    titanium/50 
+]
