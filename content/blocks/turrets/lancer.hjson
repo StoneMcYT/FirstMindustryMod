@@ -21,4 +21,5 @@ requirements: [
 shootType: {
     type: LaserBulletType
     hitSize: 4
+    length : 10000
 }
