@@ -7,6 +7,7 @@ recoilAmount: 2
 reloadTime: 80 
 category: turret
 cooldown: 0.03 
+targetAir: true
 powerUse: 6 
 shootShake: 2 
 heatColor: Color.red
