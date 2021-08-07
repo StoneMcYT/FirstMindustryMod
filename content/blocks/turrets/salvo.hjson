@@ -10,9 +10,7 @@ recoilAmount: 3
 shootShake: 1
 burstSpacing: 3
 shots: 4
-ammoUseEffect: Fx.casing2
 health: 240
-shootSound: Sounds.shootBig
 ammoTypes: {
     copper: {
         type: BasicBulletType
