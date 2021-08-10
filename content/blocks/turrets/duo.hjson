@@ -1,16 +1,16 @@
-name: Salvo
-size: 2
+name: Duo
+size: 1
 range: 1000
-reloadTime: 31
+spread: 4
+shots: 2;
+alternate: true;
+reloadTime: 20
 restitution: 0.03
-Category: turret
-ammoEjectBack: 3
-cooldown: 0.03
-recoilAmount: 3
-shootShake: 1
-burstSpacing: 3
-shots: 4
-health: 240
+range: 110;
+shootCone: 15
+health: 250;
+inaccuracy: 2
+rotateSpeed: 10
 ammoTypes: {
     copper: {
         type: BasicBulletType
@@ -22,6 +22,5 @@ ammoTypes: {
   }
 }
 requirements: [
-    copper/100,
-    graphite/80
+    copper/10
 ]
