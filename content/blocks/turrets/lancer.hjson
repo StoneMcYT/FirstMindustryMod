@@ -1,5 +1,5 @@
 name: lancer
-range: 100
+range: 1000
 chargeTime: 5 
 chargeMaxDelay: 30 
 chargeEffects: 7
@@ -22,6 +22,6 @@ requirements: [
 shootType: {
     type: LaserBulletType
     hitSize: 4
-    length: 100
+    length: 1000
     damage: 10000000
 }
