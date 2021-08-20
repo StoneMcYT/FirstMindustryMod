@@ -22,6 +22,5 @@ ammoTypes: {
   }
 }
 requirements: [
-    copper/100,
-    graphite/80
+    copper/1,
 ]
