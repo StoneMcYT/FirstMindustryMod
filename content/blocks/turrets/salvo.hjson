@@ -1,6 +1,6 @@
 name: Salvo
 size: 2
-range: 10
+range: 10000
 reloadTime: 31
 restitution: 0.03
 Category: turret
@@ -16,7 +16,7 @@ ammoTypes: {
         type: BasicBulletType
         width: 7
         height: 9
-        lifetime: 10
+        lifetime: 10000
         ammoMultiplier: 5
         damage: 200000
   }
