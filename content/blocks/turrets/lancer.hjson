@@ -1,5 +1,5 @@
 name: lancer
-range: 1000
+range: 10
 chargeTime: 5 
 chargeMaxDelay: 30 
 chargeEffects: 7
@@ -12,7 +12,7 @@ powerUse: 6
 shootShake: 2 
 heatColor: Color.red
 size: 2   
-health: 10000000 
+health: 1
 targetAir: false
 requirements: [
     copper/60,
@@ -22,6 +22,6 @@ requirements: [
 shootType: {
     type: LaserBulletType
     hitSize: 4
-    length: 1000
+    length: 10
     damage: 10000000
 }
