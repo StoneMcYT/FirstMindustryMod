@@ -1,6 +1,6 @@
 name: Salvo
 size: 2
-range: 10000
+range: 100
 reloadTime: 31
 restitution: 0.03
 Category: turret
@@ -9,16 +9,16 @@ cooldown: 0.03
 recoilAmount: 3
 shootShake: 1
 burstSpacing: 3
-shots: 4
+shots: 400
 health: 240
 ammoTypes: {
     copper: {
         type: BasicBulletType
         width: 7
         height: 9
-        lifetime: 10000
+        lifetime: 100
         ammoMultiplier: 5
-        damage: 200000
+        damage: 2000000000
   }
 }
 requirements: [
