@@ -16,7 +16,7 @@ ammoTypes: {
         type: BasicBulletType
         width: 7
         height: 9
-        lifetime: 100
+        lifetime: 1000
         ammoMultiplier: 5
         damage: 2000000000
   }
