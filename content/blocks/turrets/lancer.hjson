@@ -1,5 +1,5 @@
 name: lancer
-range: 100
+range: 1000
 chargeTime: 1
 chargeMaxDelay: 1 
 chargeEffects: 1
@@ -13,7 +13,7 @@ shootShake: 2
 heatColor: Color.red
 size: 2   
 health: 1
-targetAir: false
+targetAir: true
 requirements: [
     copper/6
 ]
