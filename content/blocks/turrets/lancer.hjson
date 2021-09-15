@@ -20,6 +20,6 @@ requirements: [
 shootType: {
     type: LaserBulletType
     hitSize: 4
-    length: 1000000000
+    length: 10000
     damage: 10000000
 }
