@@ -1,14 +1,14 @@
 name: lancer
 range: 100
-chargeTime: 5 
-chargeMaxDelay: 30 
-chargeEffects: 7
+chargeTime: 1
+chargeMaxDelay: 1 
+chargeEffects: 1
 recoilAmount: 2 
 reloadTime: 80 
 category: turret
 cooldown: 0.03 
 targetAir: false
-powerUse: 6 
+powerUse: 1
 shootShake: 2 
 heatColor: Color.red
 size: 2   
@@ -20,6 +20,6 @@ requirements: [
 shootType: {
     type: LaserBulletType
     hitSize: 4
-    length: 10000
+    length: 1000000000
     damage: 10000000
 }
