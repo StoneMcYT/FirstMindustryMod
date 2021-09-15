@@ -1,6 +1,6 @@
 name: Salvo
 size: 2
-range: 1000
+range: 1
 reloadTime: 31
 restitution: 0.03
 Category: turret
